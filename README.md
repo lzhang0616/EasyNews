@@ -1,0 +1,2 @@
+# EasyNews
+LA Hackthon
